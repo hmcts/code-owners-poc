@@ -1,4 +1,4 @@
-* !README.md !sandbox/ @hmcts/code-owners-poc-devops @hmcts/code-owners-poc-rpe
+* @hmcts/code-owners-poc-devops @hmcts/code-owners-poc-rpe
 
 prod/ @hmcts/code-owners-poc-devops
 
