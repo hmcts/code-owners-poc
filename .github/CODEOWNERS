@@ -15,6 +15,8 @@
 # k8s/aat/common/cmc/claim-store.yaml @hmcts/cmc
 # k8s/prod/common/cmc/claim-store.yaml @hmcts/cmc
 
+.github/CODEOWNERS @hmcts/code-owners-poc-devops @hmcts/code-owners-poc-rpe
+
 # AAT applications
 ## environment rules
 aat/ @hmcts/code-owners-poc-devops @hmcts/code-owners-poc-rpe
