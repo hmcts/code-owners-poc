@@ -30,3 +30,4 @@ prod/ @hmcts/code-owners-poc-devops
 
 ## application rules
 prod/cmc @hmcts/code-owners-poc-cmc
+prod/cmc-team/file @hmcts/code-owners-poc-cmc
